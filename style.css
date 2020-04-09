@@ -14,11 +14,9 @@ body {
 }
 
 .card {
-
-    background-color: red;
     height: 30%;
     flex-basis: 15%;
-
+    background-color: white
 }
 
 .deck {
@@ -32,4 +30,50 @@ body {
     background-color: rgb(122, 98, 122);
     padding: 20px;
 
+}
+
+
+
+.card-1 {
+    background-color: grey;
+}
+
+.card-2 {
+    background-color: red;
+}
+
+.card-3 {
+    background-color: green;
+}
+
+.card-4 {
+    background-color: yellow;
+}
+
+.card-5 {
+    background-color: rgb(46, 230, 14);
+}
+
+.card-6 {
+    background-color: rgb(209, 11, 127);
+}
+
+.card-7 {
+    background-color: blue;
+}
+
+.card-8 {
+    background-color: violet;
+}
+
+.card-9 {
+    background-color: black;
+}
+
+.hide {
+    background-color: rgb(109, 65, 65);
+}
+
+.show {
+    background-color: rgb(122, 98, 122);
 }
