@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card {
+
+    background-color: red;
+    height: 30%;
+    flex-basis: 15%;
+
+}
+
+.deck {
+
+    width: 90%;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgb(122, 98, 122);
+    padding: 20px;
+
+}
